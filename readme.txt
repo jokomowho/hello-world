@@ -1,2 +1,2 @@
 Hello!
-This is my first repository on Github.
+Creating repository on Github.
